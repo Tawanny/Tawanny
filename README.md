@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tawanny
 - 👀 I’m interested in Flutter and Java
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on Flutter 
 - 📫 How to reach me tawanny224@gmail.com
 
