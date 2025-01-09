@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tawanny
-- 👀 I’m interested in Flutter and Java
+- 👀 I’m interested in Flutter and Dart
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on Flutter 
 - 📫 How to reach me tawanny224@gmail.com
