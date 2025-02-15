@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter and Dart
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on Flutter 
-- 📫 How to reach me tawanny224@gmail.com
+- 📫 How to reach me tawanny0224@gmail.com
 
 <!---
 Tawanny/Tawanny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
